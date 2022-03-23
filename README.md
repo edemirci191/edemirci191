@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @edemirci191
-- 👀 I’m interested in neuroscience as well as computer science
+- 👀 I’m interested in neuroscience as well as data science
 - 🌱 I’m currently studying computer science at Sabancı University
 - 📫 How to reach me --> edemirci@sabanciuniv.edu
 
